@@ -15,7 +15,7 @@
 | [предсказание_возр_группы](./предсказание_возр_группы) | Модель классификации возрастной категории пользователя по цифровому поведению | pandas, numpy, sklearn, SVC, LogisticRegression, feature engineering, One-Hot Encoding, GridSearchCV | 
 | [удержание_пользователей_Яндекс_Афиши](./удержание_пользователей_Яндекс_Афиши) | Исследовательский анализ данных пользователей Яндекс Афиши и факторов повторных покупок | pandas, numpy, matplotlib, seaborn, phik, SQL, EDA, продуктовая аналитика | 
 | [предсказание_спроса_велосипеды](./предсказание_спроса_велосипеды) | Прогнозирование спроса на велосипеды с использованием моделей knn и DecisionTree | pandas, numpy, sklearn,  feature engineering,  knn,  DecisionTree, optuna|
-| [прогноз_стоимости_автоI](./прогноз_стоимости_авто) | Модель регрессии для оценки рыночной стоимости автомобилей и сравнительный анализ библиотек градиентного бустинга | pandas, numpy, CatBoost, XGBoost, LightGBM, Optuna, SHAP, MAE, RMSE, R², feature engineering |
+| [предск_стоимости_авто](./предск_стоимости_авто) | Модель регрессии для оценки рыночной стоимости автомобилей и сравнительный анализ библиотек градиентного бустинга | pandas, numpy, CatBoost, XGBoost, LightGBM, Optuna, SHAP, MAE, RMSE, R², feature engineering |
 | [отмена_бронирования](./отмена_бронирования) | Модель классификации для предсказания вероятности отмены бронирования с оценкой экономической эффективности | pandas, numpy, CatBoost, LightGBM, RandomForest, Optuna, SHAP, PR-AUC, ROC-AUC, Incremental Revenue, SQL |
 
 ---
